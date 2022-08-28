@@ -10,6 +10,7 @@ def print_hi(name):
     c = 1
     c += 1
     print(c)
+    print('er')
 
 
 # Press the green button in the gutter to run the script.
